@@ -16,8 +16,8 @@ This is a solution developed for modern websites to improve skills on Tailwindcs
 
 ## Screenshot
 
-![Website](https://github.com/joao82/web-manage/images/screenshot1.png)
-![Light Theme](https://github.com/joao82/web-manage/images/screenshot2.png)
+![Website](https://github.com/joao82/manage-web/images/screenshot1.png)
+![Light Theme](https://github.com/joao82/manage-web/images/screenshot2.png)
 
 ## Links
 
