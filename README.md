@@ -1,7 +1,7 @@
-# Scrimba - Digital Business Card Solution
+# Modern Website
 
-This is a solution to the Solo project: Digital Business Card on Scrimba.
-[Scrimba](https://scrimba.com) helps you improve your coding skills by building realistic projects.
+This is a solution developed for modern websites to improve skills on Tailwindcss.
+[Manage Website](https://www.youtube.com/watch?v=dFgzHOX84xQ&t=4632s) helps you improve your coding skills by building realistic websites.
 
 # Table of Contents
 
@@ -16,24 +16,23 @@ This is a solution to the Solo project: Digital Business Card on Scrimba.
 
 ## Screenshot
 
-![Black Theme](https://github.com/joao82/business-card/blob/main/src/assets/images/screenshot1.png)
-![Light Theme](https://github.com/joao82/business-card/blob/main/src/assets/images/screenshot2.png)
+![Website](https://github.com/joao82/web-manage/images/screenshot1.png)
+![Light Theme](https://github.com/joao82/web-manage/images/screenshot2.png)
 
 ## Links
 
-- Live Site URL: [@Netlify](https://scrimba-joao-business-card.netlify.app)
-- Solution URL: [@Github](https://github.com/joao82/business-card)
+- Live Site URL: [@Netlify](https://web-manage.netlify.app)
+- Solution URL: [@Github](https://github.com/joao82/manage-web.git)
 
-## Getting Started with Create React App
+## Getting Started with Tailwindcss
 
-This project was bootstrapped with Create React App.
+This project was customized with Tailwindcss.
 
 ## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-- React.JS
-- Flexbox
+- Tailwind
 
 ## Author
 
